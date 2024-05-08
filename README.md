@@ -44,3 +44,7 @@ Import and visualise the data by doing the following:
 * Create a legend that will provide context for your map data.
 
 * Your visualisation should look something like the preceding map.
+
+###                                             Screenshot of result
+![Screenshot 2024-05-09 at 12 04 52 AM](https://github.com/GilbertDichoso/leaflet-challenge_Module_15/assets/152139070/3a26a09e-b0de-4be0-a824-c874ba17c24c)
+
